@@ -7,7 +7,7 @@ Welcome to Heuristic Reasoning Agentʼs documentation!
    :hidden:
    :maxdepth: 2
 
-   topics/Home.md
+   topics/home.rst
 
 
 .. toctree::
