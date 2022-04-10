@@ -6,7 +6,7 @@ Welcome to Heuristic Reasoning Agentʼs documentation!
    :hidden:
    :maxdepth: 2
 
-   readme.rst
+   readme.md
 
 
 .. toctree::
@@ -14,7 +14,7 @@ Welcome to Heuristic Reasoning Agentʼs documentation!
    :hidden:
    :maxdepth: 2
 
-   topics/home.rst
+   topics/home.md
 
 
 .. toctree::
@@ -22,9 +22,9 @@ Welcome to Heuristic Reasoning Agentʼs documentation!
    :hidden:
    :maxdepth: 2
 
-   license.rst
-   contributing.rst
-   code_of_conduct.rst
+   license.md
+   contributing.md
+   code_of_conduct.md
 
 
 .. toctree::
