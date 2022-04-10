@@ -1,6 +1,13 @@
 Welcome to Heuristic Reasoning Agentʼs documentation!
 =====================================================
 
+.. toctree::
+   :caption: Tutorial
+   :hidden:
+   :maxdepth: 2
+
+   readme.rst
+
 
 .. toctree::
    :caption: Topics
@@ -25,7 +32,7 @@ Welcome to Heuristic Reasoning Agentʼs documentation!
    :hidden:
    :maxdepth: 2
 
-   mkdown.md
+   topics/references.rst
 
 
 .. contents::
