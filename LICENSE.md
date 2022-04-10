@@ -1,4 +1,4 @@
-### GNU LESSER GENERAL PUBLIC LICENSE
+## GNU LESSER GENERAL PUBLIC LICENSE
 
 Version 2.1, February 1999
 
@@ -453,7 +453,7 @@ FAILURE OF THE LIBRARY TO OPERATE WITH ANY OTHER SOFTWARE), EVEN IF
 SUCH HOLDER OR OTHER PARTY HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH
 DAMAGES.
 
-### END OF TERMS AND CONDITIONS
+**END OF TERMS AND CONDITIONS**
 
 ### How to Apply These Terms to Your New Libraries
 
@@ -494,7 +494,7 @@ your school, if any, to sign a "copyright disclaimer" for the library,
 if necessary. Here is a sample; alter the names:
 
     Yoyodyne, Inc., hereby disclaims all copyright interest in
-    the library `Frob' (a library for tweaking knobs) written
+    the library ‘Frob’ (a library for tweaking knobs) written
     by James Random Hacker.
 
     signature of Ty Coon, 1 April 1990
